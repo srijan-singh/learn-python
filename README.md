@@ -7,7 +7,7 @@ the variable’s value.
 
 [Practical 2](https://github.com/srijan-singh/learn-python/blob/main/Program/practical2.py) : To be able to use conditional statement.
 
-[Practical 3](https://github.com/srijan-singh/learn-python/blob/main/Program/practical3.py): To be able to use loop. 
+[Practical 3](https://github.com/srijan-singh/learn-python/blob/main/Program/practical3.py) : To be able to use loop. 
 
 ## Intermediate
 
